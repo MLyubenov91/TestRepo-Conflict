@@ -1,3 +1,7 @@
 This is a file, commited by GitBash
 
+<<<<<<< HEAD
 Alice is saying Hi via GitHub Desktop
+=======
+Martin is saying Hello via Gitbash
+>>>>>>> cbaeffa54990357ff79fa1a91b3f28ba4c01a1b5
